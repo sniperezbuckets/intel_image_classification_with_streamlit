@@ -11,7 +11,7 @@ The repository is organized as follows:
 
 - `notebook`: This directory contains the Jupyter notebook where the initial data exploration, preprocessing, and model experimentation were carried out.
 - `app.py`: This file contains the Streamlit code for the interactive web application. Users can upload images of dogs and cats to the app and get real-time predictions using the trained models.
-- `model`: I've used the [https://tfhub.dev/google/imagenet/resnet_v1_101/classification/5](resnet_v1) pre-trained model and I've reached an accuracy close tp 90%.
+- `model`: I've used the [https://tfhub.dev/google/imagenet/resnet_v1_101/classification/5](resnet_v1) pre-trained model and I've reached an accuracy close to 90%.
 - `requirements.txt`: This file contains all packages that need to be installed for the app to work.
 
 ## Usage
