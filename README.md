@@ -4,8 +4,7 @@ This repository contains code and resources for intel image classification proje
 I have downloaded the data on [Kaggle.com](https://www.kaggle.com/).
 
 
-You can get the trained model [here]([https://drive.google.com/file/d/1w2Z-XREFr7bCLfLCJ5dKPo4osOsjjZxx/view?usp=sharing](https://drive.google.com/file/d/10TJ6VN_e22rMI6jc9asWGBvGxNd3bW13/view?usp=drive_link)).
-
+You can get the trained model [here](https://drive.google.com/file/d/10TJ6VN_e22rMI6jc9asWGBvGxNd3bW13/view?usp=drive_link)
 ## Project Structure
 
 The repository is organized as follows:
